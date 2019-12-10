@@ -1,0 +1,12 @@
+# Vim
+*.swp
+
+# C
+*.d
+*.o
+
+#Misc
+.idea
+*~
+main
+vgcore.*
